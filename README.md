@@ -29,3 +29,7 @@ Wild Guess - игра в жанре виртуальной новеллы, гд�
 ![2022-06-20_21-35-22](https://user-images.githubusercontent.com/80961256/174662858-8f3cd8be-028d-4469-aaab-d072cf1c41ee.png)
 
 #### Страница игры на сайте Ludum Dare: https://ldjam.com/events/ludum-dare/49/wildguess
+
+## 🛠 Стек:
+- Unity
+- C#
